@@ -1,5 +1,6 @@
 Javascript
-Laravel
-java
-bootstrap
+-angular
+-react
+php frame work
+-laravel
 fundamental
