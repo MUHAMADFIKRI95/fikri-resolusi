@@ -1,5 +1,8 @@
 Javascript
+-frame work js
+-react js
 Laravel
 java
 bootstrap
 fundamental
+pyhton
