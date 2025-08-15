@@ -1,3 +1,4 @@
 fikri-resolusi
 -Konsisten  Belajar membuat website.
 -Membuat flatform diskusi
+-Membuat Aplikasi bengkel
